@@ -1,0 +1,11 @@
+data/raw/MapPLUTO_21v3.gdb/
+data/raw/lion/
+data/raw/network_cache/
+data/raw/tl_2020_36_tabblock20.zip
+data/processed/
+figures/
+.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
+__pycache__/
+.env
