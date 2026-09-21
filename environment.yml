@@ -1,0 +1,17 @@
+name: openstreets-park-access
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - geopandas
+  - shapely>=2.0
+  - pyogrio
+  - pyarrow
+  - scipy
+  - statsmodels
+  - matplotlib
+  - requests
+  - osmnx=2.1.1
+  - jupyterlab
